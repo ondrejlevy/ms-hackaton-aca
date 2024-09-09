@@ -1,6 +1,6 @@
 # Příprava prostředí
 
-![Schema architektury](./01b-Architektuira.png)
+![Schema architektury](./01a-Architektuira.png)
 
 ## Cíl
 - Přípravit prostředí které bude obsahovat:
