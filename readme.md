@@ -2,7 +2,7 @@
 
 ## Osnova
 1. Tvorba prostředí
-    a. [Public](./01-Prostredi-basic.md)
+    a. [Public](./01a-Prostredi-basic.md)
     b. [Internal](01b-Prostredi-internal.md)
 2. [Azure DevOps Pipelina](./02-DevOpsPipeline.md)
 3. [Autoscaling](./03-Autoscaling.md)
